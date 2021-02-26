@@ -1,5 +1,6 @@
 # Liver Cancer Virscan
 A Viral Exposure Signature Defines Early Onset of Hepatocellular Carcinoma
+[PDF Download](https://github.com/tangwei1129/virscan/blob/main/livercancervirscan.pdf)
 
 Jinping Liu, Wei Tang, Anuradha Budhu, Marshonna Forgues, Maria O Hernandez, Julián Candia, Yujin Kim, Elise D Bowman, Stefan Ambs, Yongmei Zhao, Bao Tran, Xiaolin Wu, Christopher Koh, Pallavi Surana, T Jake Liang, Maria Guarnera, Dean Mann, Manoj Rajaure, Tim F Greten, Zhanwei Wang, Herbert Yu, Xin Wei Wang
 
